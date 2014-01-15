@@ -1,4 +1,4 @@
 knittingcircle
 ==============
 
-Open Source Knitting Circle and (Not) Terrorist Society - a semi-regular gathering of open source technology professionals
+Open Source Knitting Circle and (Not) Terrorist Society - a semi-regular gathering of open source technology professionals.  We're nice people, really.
